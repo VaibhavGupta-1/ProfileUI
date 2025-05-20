@@ -178,6 +178,7 @@ This project is open source and available under the MIT License. See [LICENSE](L
 ## 📱 Connect with Me
 
 - GitHub: [VaibhavGupta-1](https://github.com/VaibhavGupta-1)
+- LinkedIn: https://www.linkedin.com/in/vaibhav-gupta-5404ba302/
 - Website: https://vaibhavgupta-1.github.io/VaibhavPortfolio/
 
 Feel free to reach out if you have any questions or suggestions!
